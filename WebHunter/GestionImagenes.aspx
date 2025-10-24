@@ -3,6 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style>
         .form-container {
+            justify-content:center;
             max-width: 600px;
             margin: 40px auto;
             background-color: #ffffff;
@@ -14,7 +15,7 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <div class="container mt-4 row">
+    <div class="containerGI mt-4 row">
         <h2 class="text-center mb-4">Gestión de Imágenes</h2>
 
         <div class="form-container">

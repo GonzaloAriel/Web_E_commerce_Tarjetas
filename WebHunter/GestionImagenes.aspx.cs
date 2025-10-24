@@ -14,18 +14,18 @@ namespace WebHunter
         
         protected void Page_Load(object sender, EventArgs e)
         {
-           /* if (Session["Usuario"] == null)
+            if (Session["Usuario"] == null)
             {
                 Response.Redirect("Login.aspx");
             }
             else
             {
                 Usuario usuario = (Usuario)Session["Usuario"];
-                if (usuario.Rol != "Admin")
+                if (usuario.Rol != "Admin" || usuario.Rol == "Usuario")
                 {
-                    Response.Redirect("AccesoDenegado.aspx");
+                    Response.Redirect("Login.aspx");
                 }
-            }*/
+            }
 
             if (!IsPostBack)
             {
