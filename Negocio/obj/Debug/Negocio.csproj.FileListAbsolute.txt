@@ -1,0 +1,9 @@
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Negocio\bin\Debug\Negocio.dll
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Negocio\bin\Debug\Dominio.dll
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Negocio\bin\Debug\Dominio.pdb
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Negocio\obj\Debug\Negocio.dll
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Negocio\obj\Debug\Negocio.pdb

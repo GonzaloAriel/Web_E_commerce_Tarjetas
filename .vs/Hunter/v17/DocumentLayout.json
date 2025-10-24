@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|c:\\users\\gonzo\\desktop\\proyecto web prototipo\\web_hunter\\hunter\\webhunter\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|solutionrelative:webhunter\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|c:\\users\\gonzo\\desktop\\proyecto web prototipo\\web_hunter\\hunter\\webhunter\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|solutionrelative:webhunter\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB6F079-25EA-4345-A99E-202F33FA3900}|Negocio\\Negocio.csproj|c:\\users\\gonzo\\desktop\\proyecto web prototipo\\web_hunter\\hunter\\negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB6F079-25EA-4345-A99E-202F33FA3900}|Negocio\\Negocio.csproj|solutionrelative:negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBD0EF8-E331-457F-BB19-096AE0E9167F}|Dominio\\Dominio.csproj|c:\\users\\gonzo\\desktop\\proyecto web prototipo\\web_hunter\\hunter\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBD0EF8-E331-457F-BB19-096AE0E9167F}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\webhunter\\gestionimagenes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|solutionrelative:webhunter\\gestionimagenes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB6F079-25EA-4345-A99E-202F33FA3900}|Negocio\\Negocio.csproj|c:\\users\\gonzo\\desktop\\proyecto web prototipo\\web_hunter\\hunter\\negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB6F079-25EA-4345-A99E-202F33FA3900}|Negocio\\Negocio.csproj|solutionrelative:negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\webhunter\\gestionimagenes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|solutionrelative:webhunter\\gestionimagenes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\webhunter\\personajesweb.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|solutionrelative:webhunter\\personajesweb.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBD0EF8-E331-457F-BB19-096AE0E9167F}|Dominio\\Dominio.csproj|C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBD0EF8-E331-457F-BB19-096AE0E9167F}|Dominio\\Dominio.csproj|solutionrelative:dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\webhunter\\personajesweb.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F02BAC1A-0141-4948-9F86-39EE11351AA2}|WebHunter\\WebHunter.csproj|solutionrelative:webhunter\\personajesweb.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB6F079-25EA-4345-A99E-202F33FA3900}|Negocio\\Negocio.csproj|C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\negocio\\personajesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB6F079-25EA-4345-A99E-202F33FA3900}|Negocio\\Negocio.csproj|solutionrelative:negocio\\personajesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBD0EF8-E331-457F-BB19-096AE0E9167F}|Dominio\\Dominio.csproj|C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\dominio\\personajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBD0EF8-E331-457F-BB19-096AE0E9167F}|Dominio\\Dominio.csproj|solutionrelative:dominio\\personajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Dominio\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:10:26.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Negocio\\UsuarioNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\UsuarioNegocio.cs",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Negocio\\UsuarioNegocio.cs",
+              "RelativeToolTip": "Negocio\\UsuarioNegocio.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEAAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T19:54:24.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebHunter\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\Login.aspx.cs",
+              "RelativeToolTip": "WebHunter\\Login.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T19:42:45.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\Login.aspx",
+              "RelativeDocumentMoniker": "WebHunter\\Login.aspx",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\Login.aspx",
+              "RelativeToolTip": "WebHunter\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-23T19:41:27.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestionImagenes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\GestionImagenes.aspx.cs",
+              "RelativeDocumentMoniker": "WebHunter\\GestionImagenes.aspx.cs",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\GestionImagenes.aspx.cs",
+              "RelativeToolTip": "WebHunter\\GestionImagenes.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:29:15.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionImagenes.aspx",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\GestionImagenes.aspx",
+              "RelativeDocumentMoniker": "WebHunter\\GestionImagenes.aspx",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\GestionImagenes.aspx",
+              "RelativeToolTip": "WebHunter\\GestionImagenes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-22T18:23:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Dominio\\Imagen.cs",
+              "RelativeDocumentMoniker": "Dominio\\Imagen.cs",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Dominio\\Imagen.cs",
+              "RelativeToolTip": "Dominio\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:03:23.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImagenNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Negocio\\ImagenNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ImagenNegocio.cs",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Negocio\\ImagenNegocio.cs",
+              "RelativeToolTip": "Negocio\\ImagenNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T00:55:17.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonajesNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Negocio\\PersonajesNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\PersonajesNegocio.cs",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Negocio\\PersonajesNegocio.cs",
+              "RelativeToolTip": "Negocio\\PersonajesNegocio.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:21:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Personajes.cs",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Dominio\\Personajes.cs",
+              "RelativeDocumentMoniker": "Dominio\\Personajes.cs",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\Dominio\\Personajes.cs",
+              "RelativeToolTip": "Dominio\\Personajes.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:40:16.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonajesWeb.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\PersonajesWeb.aspx.cs",
+              "RelativeDocumentMoniker": "WebHunter\\PersonajesWeb.aspx.cs",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\PersonajesWeb.aspx.cs",
+              "RelativeToolTip": "WebHunter\\PersonajesWeb.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:15:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonajesWeb.aspx",
+              "DocumentMoniker": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\PersonajesWeb.aspx",
+              "RelativeDocumentMoniker": "WebHunter\\PersonajesWeb.aspx",
+              "ToolTip": "C:\\Users\\GONZO\\Desktop\\Proyecto web prototipo\\WEB_Hunter\\Hunter\\WebHunter\\PersonajesWeb.aspx",
+              "RelativeToolTip": "WebHunter\\PersonajesWeb.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-20T20:13:14.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

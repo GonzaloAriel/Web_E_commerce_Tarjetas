@@ -1,0 +1,6 @@
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Dominio\bin\Debug\Dominio.dll
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Dominio\bin\Debug\Dominio.pdb
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Dominio\obj\Debug\Dominio.dll
+C:\Users\GONZO\Desktop\Proyecto web prototipo\WEB_Hunter\Hunter\Dominio\obj\Debug\Dominio.pdb
