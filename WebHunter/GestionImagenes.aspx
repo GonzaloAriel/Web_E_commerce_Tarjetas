@@ -3,29 +3,34 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style>
         .form-container {
-            justify-content:center;
-            max-width: 600px;
+            justify-content: center;
+            max-width: 400px;
             margin: 40px auto;
             background-color: #ffffff;
             padding: 30px;
             border-radius: 12px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.1);
         }
+
+        .dgvImagenes {
+            padding: 40px;
+        }
     </style>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <div class="containerGI mt-4 row">
+    <div class="containerGI mt-4 row ">
         <h2 class="text-center mb-4">Gestión de Imágenes</h2>
 
         <div class="form-container">
             <asp:Panel ID="PanelForm" runat="server">
                 <div class="mb-3">
                     <label for="ddlPersonaje" class="form-label">Personaje</label>
-                    <asp:DropDownList 
-                        ID="ddlPersonaje" runat="server" 
-                        CssClass="form-select" 
-                        OnSelectedIndexChanged="ddlPersonaje_SelectedIndexChanged" AutoPostBack="true" ></asp:DropDownList>
+                    <asp:DropDownList
+                        ID="ddlPersonaje" runat="server"
+                        CssClass="form-select"
+                        OnSelectedIndexChanged="ddlPersonaje_SelectedIndexChanged" AutoPostBack="true">
+                    </asp:DropDownList>
                 </div>
 
                 <div class="mb-3">
@@ -62,15 +67,16 @@
             <asp:Label ID="lbEliminado" runat="server" CssClass="text-center d-block mt-3 fw-bold"></asp:Label>
         </div>
 
-
-         <asp:GridView ID="dgvImagenes" runat="server" AutoGenerateColumns="false" OnSelectedIndexChanged="dgvImagenes_SelectedIndexChanged" DataKeyNames="IdImagen" >
-             <Columns>
-                 <asp:BoundField HeaderText="IdImagen" DataField="IdImagen" />
-                 <asp:BoundField HeaderText="Descripcion" DataField="Descripcion" />
-                 <asp:BoundField HeaderText="IdPersonaje" DataField="IdPersonaje" />
-                 <asp:CommandField ShowSelectButton="true" SelectText="Seleccionar" HeaderText="Accion" />
-             </Columns>
-         </asp:GridView>
+        <div class="p-5">
+            <asp:GridView ID="dgvImagenes" runat="server" AutoGenerateColumns="false" OnSelectedIndexChanged="dgvImagenes_SelectedIndexChanged" DataKeyNames="IdImagen">
+                <Columns>
+                    <asp:BoundField HeaderText="IdImagen" DataField="IdImagen" />
+                    <asp:BoundField HeaderText="Descripcion" DataField="Descripcion" />
+                    <asp:BoundField HeaderText="IdPersonaje" DataField="IdPersonaje" />
+                    <asp:CommandField ShowSelectButton="true" SelectText="Seleccionar" HeaderText="Accion" />
+                </Columns>
+            </asp:GridView>
+        </div>
     </div>
 
 
